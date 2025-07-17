@@ -18,7 +18,11 @@ I followed the program path [Qt 5 Core Intermediate with C++](https://www.udemy.
    4. [QMap](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-4)
    5. [QLinkedList](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-5)
 3. Working with settings
+   1. [Introduction to QSettings](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci3-1)
+   2. [Groups in QSettings](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci3-2)
+   3. [Navigating groups](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci3-3)
 4. Working with the file system
+   1. [re*](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci4-1)
 5. Exploring QDebug
 6. Encoding
 7. Working with qCompress and qUncompress
