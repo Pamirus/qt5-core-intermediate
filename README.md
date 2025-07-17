@@ -12,6 +12,11 @@ I followed the program path [Qt 5 Core Intermediate with C++](https://www.udemy.
    3. [QScopedPointer](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci1-3)
    4. [QSharedPointer](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci1-4)
 2. Collections
+   1. [QList vs QVector](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-1)
+   2. [QHash](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-2)
+   3. [QSet](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-3)
+   4. [QMap](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-4)
+   5. [QLinkedList](https://github.com/Pamirus/qt5-core-intermediate/tree/main/qtci2-5)
 3. Working with settings
 4. Working with the file system
 5. Exploring QDebug
